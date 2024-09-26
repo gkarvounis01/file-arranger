@@ -15,6 +15,7 @@ and moving files into their corresponding folders. Ideal for organizing download
 - Type command
 ```console python file-arranger.py```
 - Folders are created and files are added
+
 ![End result](folders.JPG)
 
 ## License
