@@ -13,7 +13,7 @@ and moving files into their corresponding folders. Ideal for organizing download
 - Type "cmd" in the File Explorer that file-arranger.py is located to open Command Prompt directly in that directory.
 
 - Type command
-```console python file-arranger.py```
+```python file-arranger.py```
 - Folders are created and files are added
 
 ![End result](folders.JPG)
